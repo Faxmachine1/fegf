@@ -36,7 +36,7 @@
 
 
 <script>
-import FacebookIcon from './icons/facebook.vue';
+import FacebookIcon from './icons/Facebook.vue';
 import InstagramIcon from './icons/Instagram.vue';
 import TwitterIcon from './icons/Twitter.vue';
 import LinkedinIcon from './icons/Linkedin.vue';
